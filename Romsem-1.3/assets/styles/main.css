@@ -142,5 +142,6 @@ a:hover{
     background: red;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 0 2% 0 1%;
 }
